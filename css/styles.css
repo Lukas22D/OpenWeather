@@ -12,6 +12,8 @@ body{
     justify-content: center;
     align-items: center;
     height: 100vh;
+    background-image: "";
+    background-size: cover;
 }
 
 .hide{
